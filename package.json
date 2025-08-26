@@ -1,0 +1,25 @@
+{
+  "name": "@driftql/vue3",
+  "version": "1.0.0",
+  "description": "Comme GraphQL, mais pour un drift fluide entre front et back.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clicalmani/driftql-vue3.git"
+  },
+  "keywords": [
+    "Tonka",
+    "InertiaJs",
+    "Vue3",
+    "GraphQL"
+  ],
+  "author": "clicalmani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clicalmani/driftql-vue3/issues"
+  },
+  "homepage": "https://github.com/clicalmani/driftql-vue3#readme"
+}
